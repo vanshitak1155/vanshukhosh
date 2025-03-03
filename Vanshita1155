@@ -1,0 +1,42 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Friend's Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AMAN KHACHII!</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About fuganiya</h2>
+        <p>fuganiya is a wonderful person who loves playing games, looking at girls and smoking. We met during my school and have shared many great memories together, he's my best buddy.</p>
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <img src=""C:\Users\vansh\Downloads\ak.jpg"" alt="Image 1" />
+        <img src=""C:\Users\vansh\Downloads\ak3.jpg"" alt="Image 2" />
+        <img src=""C:\Users\vansh\Downloads\ak2.jpg"" alt="Image 3" />
+    </section>
+
+    <section id="contact">
+        <h2>Contact [aman laal khachi]</h2>
+        <p>Email: <a href="amankhachi420@gmail.com">friend@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 vanshu cutiee. All rights reserved.</p>
+    </footer>
+</body>
+</html>
